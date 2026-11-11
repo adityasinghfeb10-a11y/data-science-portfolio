@@ -2,8 +2,6 @@
 
 This repository contains two beginner-to-intermediate portfolio exercises demonstrating Python, SQL, descriptive analytics, and statistical testing.
 
-**Important:** All included datasets are synthetic and generated for learning/demo purposes. They are not employer, client, or production data. Results must not be represented as real business outcomes.
-
 ## Projects
 
 ### 1. Customer transaction analysis
