@@ -32,12 +32,4 @@ python src/customer_analysis.py
 python src/ab_test_analysis.py
 ```
 
-## Suggested next improvements
-1. Add data validation and missing-value checks.
-2. Add charts and a short written interpretation of the outputs.
-3. Add confidence intervals and a power/sample-size discussion to the experiment.
-4. Reproduce the SQL queries in a database such as PostgreSQL or SQLite.
-5. Replace synthetic data only with data you are authorized to share.
 
-## About
-Prepared as a portfolio learning project. Review and understand the code before discussing it in interviews.
